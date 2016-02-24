@@ -1,0 +1,3 @@
+puts "What is your input string?"
+input_string = gets.strip
+puts "Your #{inputnput_string} has #{input_string.length} caracters"
